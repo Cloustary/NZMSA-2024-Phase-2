@@ -1,1 +1,3 @@
 # NZMSA-2024-Phase-2
+
+Thank you very much for taking the time to check my content. The project is divided into three main parts, which are arranged in three folders. The first part contains the notebook, the pre-processing data set, and the post-processing data set. The second part contains the notebook and the data sets processed in the previous part. The third part contains the notebook and the final generated id-label file. I have tried my best to complete as many tasks as possible, but there are still many deficiencies. I hope you can understand. In any case, it was a challenging but rewarding experience.
